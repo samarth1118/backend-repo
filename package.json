@@ -12,5 +12,8 @@
     "url": "https://bitbucket.org/bbbdevind/all-in-one-b2b/pull-requests/554/build-elc-1652-uae-uat"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
 }
