@@ -1,0 +1,16 @@
+{
+  "name": "packagerepo",
+  "version": "1.0.0",
+  "description": "sample",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://bitbucket.org/bbbdevind/all-in-one-b2b/pull-requests/554/build-elc-1652-uae-uat"
+  },
+  "author": "",
+  "license": "ISC"
+}
